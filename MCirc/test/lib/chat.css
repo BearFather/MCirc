@@ -1,0 +1,62 @@
+#BODY{
+        background: url(../img/bgoff.png);
+        background-repeat: no-repeat;
+        color:red;
+        background-color: black;
+        width:1280px
+}
+#users{
+	position: relative;
+	left: 120px;
+	top: 53px;
+}
+#chat{
+	position: relative;
+	left: 200px;
+	top: 135px;
+}
+#site{
+	color: red;
+}
+#ulist{
+	color: #48CCCD;
+}
+#serv{
+	color: blue;
+}
+#author{
+	color:brown;
+}
+#private{
+	color: green;
+}
+#mess{
+	color:white;
+}
+#input {
+        position: relative;
+        left: 335px;
+        top: 140px;
+	background-color: Transparent;
+}
+#chatbutton{
+        background-image:url('../img/sign3.png');
+        border-width: 0px;
+        width: 66px;
+        height: 30px;
+}
+#players{
+        position: relative;
+	top: 160px;
+        left: 230px;
+}
+#tdback {
+        background-image: url(../img/sign2.png);
+        font-size: 15px;
+        height: 106px;
+        width: 101px;
+        color: black;
+}
+#clltxt{
+        position: relative; bottom: 30px;
+}

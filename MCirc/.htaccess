@@ -1,0 +1,4 @@
+AuthType Digest
+AuthName "SuperMinerBros"
+AuthUserFile /etc/apache2/web.digest
+Require user BearFather cypher1024 zok elemento test sagum canison wombatunder Q Drekinn wombatunder1 PsychoNavigator velcrox miki_chan LurgenAU Howlmon ZeroKewl Psykosis77 paigeclark2012
